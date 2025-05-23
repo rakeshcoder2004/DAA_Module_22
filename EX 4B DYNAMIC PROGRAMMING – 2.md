@@ -15,8 +15,8 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 ## Program:
 ```
 /*
-Developed by: Harish R
-Register Number: 212222110012
+Developed by: Rakesh V
+Register Number: 212222110036
 */
 ```
 ```
