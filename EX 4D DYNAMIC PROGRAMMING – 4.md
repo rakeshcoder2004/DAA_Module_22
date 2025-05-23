@@ -15,8 +15,8 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 ## Program:
 ```
 /*
-Developed by: Harish R
-Register Number: 212222110012
+Developed by: Rakesh V
+Register Number: 212222110036
 */
 ```
 ```
